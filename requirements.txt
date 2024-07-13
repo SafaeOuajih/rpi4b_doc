@@ -1,0 +1,4 @@
+texlive-latex-extra
+latexmk
+sphinx-prompt
+sphinx-rtd-theme
