@@ -3,9 +3,13 @@ For HTML:
 sphinx-build -M html source/ .
 ```
 ```
-firefox latex/rpi4bsdoc.pdf
+firefox html/index.html
 ```
 For PDF:
 ```
 make latexpdf
+```
+```
+firefox latex/rpi4bsdoc.pdf
+
 ```
